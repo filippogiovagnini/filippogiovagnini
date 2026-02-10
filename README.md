@@ -22,7 +22,7 @@ I work on **stochastic PDEs, interacting particle systems, and stochastic fluid 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars)
 ![Lightning](https://img.shields.io/badge/Lightning-AI-purple?style=flat)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
