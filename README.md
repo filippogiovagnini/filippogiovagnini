@@ -2,9 +2,9 @@
 
 I'm a Maths PhD candidate @ Imperial College London, working at the intersection of stochastic analysis, stochastic PDEs, interacting particle systems, and mathematical questions around modern machine learning.
 
-My research is mainly about how complex random systems behave in limiting regimes: particle approximations of stochastic fluid equations, zero-noise limits of stochastic regularizations, and universality phenomena in wide neural networks.
+My academic research studies how complex random systems behave in limiting regimes: particle approximations of stochastic fluid equations, zero-noise limits of stochastic regularizations, and universality phenomena in wide neural networks.
 
-I also build applied ML systems, with experience in NLP pipelines, transformer-based modelling, and model evaluation.
+Alongside my studies, I also worked part-time in the industry where I built applied ML systems, NLP pipelines and more specifically transformer-based models.
 
 ## 🧠 Selected work
 
@@ -27,7 +27,6 @@ I also build applied ML systems, with experience in NLP pipelines, transformer-b
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Lightning](https://img.shields.io/badge/Lightning-AI-purple?style=flat)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
